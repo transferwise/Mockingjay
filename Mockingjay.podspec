@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
         'Sources/Mockingjay/MockingjayProtocol.swift',
         'Sources/Mockingjay/{Matchers,Builders}.swift',
         'Sources/Mockingjay/NSURLSessionConfiguration.swift',
-        'Sources/Mockingjay/MockingjayURLSessionConfiguration.m'
+        'Sources/Mockingjay/MockingjayURLSessionConfiguration.m',
         'Sources/Mockingjay/URITemplate.swift'
   end
 
